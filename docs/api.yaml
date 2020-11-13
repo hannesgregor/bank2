@@ -545,7 +545,7 @@ components:
                     description: Successful response
                     type: string
                 successfulHistory:
-                    description: "{\r\n    \"transactions\": {\r\n        \"createdAt\": \"2020-11-03T17:23:04.056Z\",\r\n        \"status\": \"completed\",\r\n        \"_id\": \"5fa19248f1ff7c46a80eeb5d\",\r\n        \"userId\": \"5fa18d06e11be12268b48733\",\r\n        \"amount\": 500,\r\n        \"currency\": \"EUR\",\r\n        \"accountFrom\": \"f896138686071081018\",\r\n        \"accountTo\": \"f896138686071081017\",\r\n        \"explanation\": \"raha\",\r\n        \"senderName\": \"maarek\",\r\n        \"__v\": 0,\r\n        \"receiverName\": \"maarek1\",\r\n        \"statusDetail\": \"\"\r\n    }\r\n}"
+                    description: "{\r\n    \"transactions\": {\r\n        \"createdAt\": \"2020-11-03T17:23:04.056Z\",\r\n        \"status\": \"completed\",\r\n        \"_id\": \"5fa19248f1ff7c46a80eeb5d\",\r\n        \"userId\": \"5fa18d06e11be12268b48733\",\r\n        \"amount\": 500,\r\n        \"currency\": \"EUR\",\r\n        \"accountFrom\": \"f896138686071081018\",\r\n        \"accountTo\": \"f896138686071081017\",\r\n        \"explanation\": \"raha\",\r\n        \"senderName\": \"hannes\",\r\n        \"__v\": 0,\r\n        \"receiverName\": \"karlos\",\r\n        \"statusDetail\": \"\"\r\n    }\r\n}"
                     type: string
             example:
                 name: Ojarand Karl Galkin Hannes-Gregor
